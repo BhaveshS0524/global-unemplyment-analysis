@@ -1,3 +1,10 @@
+##This analysis helps policymakers and organizations:
+
+- Identify countries with high unemployment risk  
+- Understand gender inequality in labor markets  
+- Detect global economic shocks (e.g., 2020 spike)  
+- Compare stable vs volatile economies
+
 # Global Unemployment Analysis (1991–2025)
 ### Overview
 End-to-end analysis of global unemployment trends across 183 countries, segmented by gender and age groups. The project demonstrates practical data analysis using Pandas, with a focus on trend detection, disparity analysis, and country benchmarking.
