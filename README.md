@@ -1,4 +1,5 @@
 📊 Global Unemployment Analysis (1991–2025)
+
 Project Summary
 This project analyzes global unemployment trends across 183 countries to uncover patterns in economic performance, gender inequality, and labor market stability.
 Built using Python (Pandas), the analysis simulates real-world business problem-solving and decision-making.
